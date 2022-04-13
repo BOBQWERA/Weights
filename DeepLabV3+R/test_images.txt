@@ -1,0 +1,18 @@
+./data/STARE/stare-images\im0291.ppm, ./data/STARE/labels-ah\im0291.ah.ppm
+./data/CHASEDB1\Image_03L.jpg, ./data/CHASEDB1\Image_03L_2ndHO.png
+./data/HRF/images\04_g.jpg, ./data/HRF/manual1\04_g.tif
+./data/HRF/images\14_h.jpg, ./data/HRF/manual1\14_h.tif
+./data/CHASEDB1\Image_06R.jpg, ./data/CHASEDB1\Image_06R_2ndHO.png
+./data/HRF/images\11_h.jpg, ./data/HRF/manual1\11_h.tif
+./data/STARE/stare-images\im0163.ppm, ./data/STARE/labels-ah\im0163.ah.ppm
+./data/IOSTAR/image\sSTAR 15_OSN_Merged.jpg, ./data/IOSTAR/GT\sSTAR 15_OSN_Merged.tif
+./data/CHASEDB1\Image_07R.jpg, ./data/CHASEDB1\Image_07R_2ndHO.png
+./data/STARE/stare-images\im0255.ppm, ./data/STARE/labels-ah\im0255.ah.ppm
+./data/CHASEDB1\Image_09R.jpg, ./data/CHASEDB1\Image_09R_2ndHO.png
+./data/DRIVE/training/images\21_training.tif, ./data/DRIVE/training/1st_manual\21_manual1.png
+./data/DRIVE/training/images\24_training.tif, ./data/DRIVE/training/1st_manual\24_manual1.png
+./data/DRIVE/training/images\28_training.tif, ./data/DRIVE/training/1st_manual\28_manual1.png
+./data/IOSTAR/image\sSTAR 30_ODC_Merged.jpg, ./data/IOSTAR/GT\sSTAR 30_ODC_Merged.tif
+./data/CHASEDB1\Image_02R.jpg, ./data/CHASEDB1\Image_02R_2ndHO.png
+./data/CHASEDB1\Image_08L.jpg, ./data/CHASEDB1\Image_08L_2ndHO.png
+./data/IOSTAR/image\sSTAR 08_OSN_Merged.jpg, ./data/IOSTAR/GT\sSTAR 08_OSN_Merged.tif
